@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3e8ff;
+    margin: 0;
+    padding: 30px;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+#heading {
+    text-align: center;
+    color: #7c3aed;
+    font-size: 35px;
+}
+
+p {
+    color: rgb(55, 45, 70);
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+.highlight {
+    background-color: #ede9fe;
+    padding: 10px;
+    border-left: 5px solid #8b5cf6;
+}
+
+h2 {
+    color: #4c1d95;
+    margin-top: 25px;
+}
+
+.movies {
+    background-color: rgb(239, 246, 255);
+    padding: 20px 40px;
+    border-radius: 8px;
+}
+
+.cities {
+    background-color: #fce7f3;
+    padding: 20px 40px;
+    border-radius: 8px;
+}
+
+li {
+    margin: 8px;
+    font-size: 16px;
+}
+
+li:hover {
+    color: #7c3aed;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#contact {
+    background-color: rgb(239, 246, 255);
+    padding: 15px;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #7c3aed;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+}
+
+button:hover {
+    background-color: #4c1d95;
+    cursor: pointer;
+}
